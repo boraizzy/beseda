@@ -1,0 +1,31 @@
+{
+  "top_Rated_CourseList": [
+    {
+      "id": 1,
+      "name": "Figma UI Ux Design Essentials",
+      "image": "https://media.imperiathemes.com/images/education_app/C0hHpeGify1Y6868f52ea1b68.png",
+      "courseFees": 199.50,
+      "rate": 4.5,
+      "instructorName": "John Edselvis"
+
+    },
+    {
+      "id": 2,
+      "name": "Figma UI Ux Design Intermediate Level",
+      "image": "https://media.imperiathemes.com/images/education_app/ZKgPPnHfkTcY6868f52ea0c99.png",
+      "courseFees": 199.50,
+      "rate": 4.5,
+      "instructorName": "John Edselvis"
+
+    },
+    {
+      "id": 3,
+      "name": "Figma UI Ux Design Intermediate Level",
+      "image": "https://media.imperiathemes.com/images/education_app/liARMvYuWSit6868f52ea1669.png",
+      "courseFees": 199.50,
+      "rate": 4.5,
+      "instructorName": "John Edselvis"
+
+    }
+  ]
+}

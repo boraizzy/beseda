@@ -1,0 +1,306 @@
+{
+  "name": "Graphic designing masterclass - Learn great design",
+  "image": "https://media.imperiathemes.com/images/education_app/TEBfVS1Dkhoc686e41fd65bbc.png",
+  "videoUrl":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+  "rate": 4.5,
+  "instructorName": "Ella Gonzalez",
+  "instructorProfileImg": "https://media.imperiathemes.com/images/education_app/5CVtkfGsAXZQ687dda73cb5e5.png",
+  "course_curriculum_list": [
+    {
+      "title": "Session 1: Intro to After Effects",
+      "noOfCompletedLectures": 3,
+      "lectures_list": [
+        {
+          "id": 1,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 2,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 3,
+          "name": "Modeling Basics - Understanding the interface",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":false
+        },
+        {
+          "id": 4,
+          "name": "Sculpting Techniques - Creating organic shapes",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 5,
+          "name": "Texturing and Materials - Adding realism",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        },
+        {
+          "id": 6,
+          "name": "Lighting and Rendering - Final touches for your scene",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        }
+
+      ]
+    },
+    {
+      "title": "Session 2: After Effect Basics",
+      "noOfCompletedLectures": 10,
+      "lectures_list": [
+        {
+          "id": 1,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 2,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 3,
+          "name": "Modeling Basics - Understanding the interface",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":false
+        },
+        {
+          "id": 4,
+          "name": "Sculpting Techniques - Creating organic shapes",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 5,
+          "name": "Texturing and Materials - Adding realism",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        },
+        {
+          "id": 6,
+          "name": "Lighting and Rendering - Final touches for your scene",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        }
+
+      ]
+    },
+    {
+      "title": "Session 3: Animating keyframe",
+      "noOfCompletedLectures": 14,
+      "lectures_list": [
+        {
+          "id": 1,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 2,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 3,
+          "name": "Modeling Basics - Understanding the interface",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":false
+        },
+        {
+          "id": 4,
+          "name": "Sculpting Techniques - Creating organic shapes",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 5,
+          "name": "Texturing and Materials - Adding realism",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        },
+        {
+          "id": 6,
+          "name": "Lighting and Rendering - Final touches for your scene",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        }
+
+      ]
+    },
+    {
+      "title": "Session 4: Shapes & Solid layer",
+      "noOfCompletedLectures": 10,
+      "lectures_list": [
+        {
+          "id": 1,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 2,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 3,
+          "name": "Modeling Basics - Understanding the interface",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":false
+        },
+        {
+          "id": 4,
+          "name": "Sculpting Techniques - Creating organic shapes",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 5,
+          "name": "Texturing and Materials - Adding realism",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        },
+        {
+          "id": 6,
+          "name": "Lighting and Rendering - Final touches for your scene",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        }
+
+      ]
+    },
+    {
+      "title": "Session 5: Motion Graphics",
+      "noOfCompletedLectures": 9,
+      "lectures_list": [
+        {
+          "id": 1,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 2,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 3,
+          "name": "Modeling Basics - Understanding the interface",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":false
+        },
+        {
+          "id": 4,
+          "name": "Sculpting Techniques - Creating organic shapes",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 5,
+          "name": "Texturing and Materials - Adding realism",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        },
+        {
+          "id": 6,
+          "name": "Lighting and Rendering - Final touches for your scene",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        }
+
+      ]
+    },
+    {
+      "title": "Session 6: Rotoscoping",
+      "noOfCompletedLectures": 12,
+      "lectures_list": [
+        {
+          "id": 1,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 2,
+          "name": "Session Intro - Introduction to blender",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 3,
+          "name": "Modeling Basics - Understanding the interface",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":false
+        },
+        {
+          "id": 4,
+          "name": "Sculpting Techniques - Creating organic shapes",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":true,
+          "isCompleted":true
+        },
+        {
+          "id": 5,
+          "name": "Texturing and Materials - Adding realism",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        },
+        {
+          "id": 6,
+          "name": "Lighting and Rendering - Final touches for your scene",
+          "timeOfVideo": "Video 10:23",
+          "isDownloaded":false,
+          "isCompleted":true
+        }
+
+      ]
+    }
+
+
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "quiz_list": [
+    {
+      "id": 1,
+      "question": "Въпрос за AI 1",
+      "correctOptionIndex": 1,
+      "options": [
+        { "value": "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.", "isImage": false },
+        { "value": "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.", "isImage": false },
+        { "value": "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.", "isImage": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Въпрос за AI 2",
+      "correctOptionIndex": 1,
+      "options": [
+        { "value": "assets/images/ai.png", "isImage": true ,"key":"A"},
+        { "value": "assets/images/LLM.png", "isImage": true,"key":"B" }
+
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Въпрос за AI 3",
+      "correctOptionIndex": 2,
+      "options": [
+        { "value": "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.", "isImage": false },
+        { "value": "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.", "isImage": false },
+        { "value": "Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur.", "isImage": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "AI за начинаещи",
+  "image": "assets/images/ai_course.jpg",
+  "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+  "rate": 5.0,
+  "description": "Този курс „AI за начинаещи“ ще ви въведе в основните концепции на изкуствения интелект. Ще научите какво представлява AI, откъде е тръгнал, какви задачи решава и как се различава тесният от общия интелект.",
+  "date": "01/2025",
+  "courseFees": 0.0,
+  "sessions": 1,
+  "noOfLectures": 1,
+  "level": "Начално ниво",
+  "CourseOutComesList": [
+    {
+      "image": "https://media.imperiathemes.com/images/education_app/outcome1.png",
+      "title": "Разбиране на основите на изкуствения интелект"
+    },
+    {
+      "image": "https://media.imperiathemes.com/images/education_app/outcome2.png",
+      "title": "Разлика между тесен и общ интелект"
+    }
+  ],
+  "course_curriculum_list": [
+    {
+      "title": "Секция 1: Какво може да прави AI?",
+      "lectures_list": [
+        {
+          "id": 1,
+          "name": "Въведение в езиковите модели",
+          "timeOfVideo": "10 минути"
+        }
+      ]
+    }
+  ],
+  "course_features_list": [
+    {
+      "image": "https://media.imperiathemes.com/images/education_app/feature1.png",
+      "name": "1 лекция"
+    },
+    {
+      "image": "https://media.imperiathemes.com/images/education_app/feature2.png",
+      "name": "Подходящ за начинаещи"
+    },
+    {
+      "image": "https://media.imperiathemes.com/images/education_app/feature3.png",
+      "name": "Безплатен достъп"
+    }
+  ],
+  "id": 1,
+  "instructorName": "Boris Zarkov",
+  "instructorProfileImg": "assets/images/default1.jpg",
+  "qualification": "Експерт по изкуствен интелект",
+  "noOfStudents": 12,
+  "course_list": [],
+  "course_rating": 5.0,
+  "review_list": [
+    {
+      "id": 1,
+      "name": "Иван Петров",
+      "time": "Преди 1 ден",
+      "rate": 5.0,
+      "msg": "Страхотен курс за начинаещи! Всичко е обяснено ясно и разбираемо."
+    }
+  ],
+  "requirements": [
+    "Няма нужда от предварителни знания.",
+    "Желание да научите основите на AI."
+  ]
+}

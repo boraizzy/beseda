@@ -1,0 +1,71 @@
+{
+  "host_list": [
+    {
+      "id": 1,
+      "name": "Anita W"
+
+
+    },
+    {
+      "id": 2,
+      "name": "Anita W"
+
+
+    }
+  ],
+  "participants_list": [
+    {
+      "id": 1,
+      "name": "Mathew",
+      "showMe": true
+
+
+    },
+    {
+      "id": 1,
+      "name": "Joy Banksworthy Trent",
+      "speaking": true
+
+    },
+    {
+      "id": 2,
+      "name": "Anita W"
+
+
+    } ,
+    {
+      "id": 1,
+      "name": "Mathew"
+
+
+    },
+    {
+      "id": 1,
+      "name": "Joy Banksworthy Trent",
+      "showMe": true
+    },
+    {
+      "id": 2,
+      "name": "Anita W"
+
+
+    } ,
+    {
+      "id": 1,
+      "name": "Mathew"
+
+
+    },
+    {
+      "id": 1,
+      "name": "Joy Banksworthy Trent"
+
+    },
+    {
+      "id": 2,
+      "name": "Anita W",
+      "showMe": true
+
+    }
+  ]
+}

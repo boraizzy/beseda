@@ -1,0 +1,25 @@
+{
+  "mock_Test_List": [
+    {
+      "id": 1,
+      "name": "Изкуствен Интелект - Тест",
+      "image": "https://media.imperiathemes.com/images/education_app/mDjMJv8FVmZg6868aee5013b4.png",
+      "noOfQuestions": 30,
+      "status": "Pending"
+    } ,
+    {
+      "id": 2,
+      "name": "Машинно обучение - Тест",
+      "image": "https://media.imperiathemes.com/images/education_app/cBqkx5iwvBCS6868aee500c08.png",
+      "noOfQuestions": 30,
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "name": "Невронни мрежи - Тест",
+      "image": "https://media.imperiathemes.com/images/education_app/mDjMJv8FVmZg6868aee5013b4.png",
+      "noOfQuestions": 30,
+      "status": "Pending"
+    }
+  ]
+}

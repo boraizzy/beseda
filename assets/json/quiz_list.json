@@ -1,0 +1,39 @@
+{
+  "quiz_list": [
+    {
+      "id": 1,
+      "name": "Квиз / Изкуствен интелект",
+      "image": "assets/images/ai.png",
+      "noOfQuestions":25,
+      "noOfAttendance": 1206
+    },
+    {
+      "id": 2,
+      "name": "Квиз / Машинно обучение",
+      "image": "assets/images/machine_learning.png",
+      "noOfQuestions":25,
+      "noOfAttendance": 857
+    },
+    {
+      "id": 3,
+      "name": "Квиз / Дълбоко обучение",
+      "image": "assets/images/deep_learning.png",
+      "noOfQuestions":25,
+      "noOfAttendance": 936
+    },
+    {
+      "id": 4,
+      "name": "Квиз / Невронни мрежи",
+      "image": "assets/images/neural_network.png",
+      "noOfQuestions":25,
+      "noOfAttendance": 1363
+    },
+    {
+      "id": 5,
+      "name": "Квиз / LLMs",
+      "image": "assets/images/LLM.png",
+      "noOfQuestions":25,
+      "noOfAttendance": 1156
+    }
+  ]
+}

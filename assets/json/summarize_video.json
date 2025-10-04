@@ -1,0 +1,22 @@
+{
+  "keyPoints": [
+    {
+      "id": 1,
+      "title":"Lorem ipsum dolor sit amet consectetur. Sagittis leo augue morbi consectetur."
+    },
+     {
+      "id": 2,
+      "title":"Lorem ipsum dolor sit amet consectetur. Sagittis leo augue morbi consectetur, Lorem ipsum dolor sit amet consectetur. Sagittis leo augue morbi consectetur."
+    },
+    {
+      "id": 3,
+      "title":"Lorem ipsum dolor sit amet consectetur. Sagittis leo augue morbi consectetur."
+    },
+    {
+      "id": 4,
+      "title":"Lorem ipsum dolor sit amet consectetur. Sagittis leo augue morbi consectetur, Lorem ipsum dolor sit amet consectetur. Sagittis leo augue morbi consectetur."
+    }
+
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "featured_Course_List": [
+    {
+      "id": 1,
+      "name": "Въведение в Изкуственият интелект",
+      "image": "assets/images/ai_course.jpg",
+      "courseFees": 0.00,
+      "rate": 4.5,
+      "instructorName": "Boris Zarkov"
+    }
+  ]
+}

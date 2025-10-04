@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079849551967",
+    "project_id": "beseda-74e08",
+    "storage_bucket": "beseda-74e08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079849551967:android:89e349fa3e4d81300fb3ea",
+        "android_client_info": {
+          "package_name": "com.example.beseda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaTwywLx4uHvZj0y7qMLjKxaCiOiNRcOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

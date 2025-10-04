@@ -1,0 +1,12 @@
+import 'package:education_app/presentation/screens/home_module/course_detail/widgets/common_view.dart';
+import 'package:education_app/presentation/screens/home_module/course_detail/widgets/curriculum_view.dart';
+import 'package:education_app/presentation/screens/home_module/course_detail/widgets/rating_review.dart';
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import '../../../../core/constants/app_colors.dart';
+import '../../../../core/constants/app_strings.dart';
+import '../../../app/theme_controller.dart';
+import '../../../common_widgets/view_common_widget/common_app_bar.dart';
+import '../my_profile/widgets/common_view.dart';
+import 'controller/course_detail_controller.dart';
+part 'course_detail_view.dart';

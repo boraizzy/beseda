@@ -1,0 +1,87 @@
+{
+  "rank_list": [
+    {
+      "rank": 1,
+      "title": "UI/UX Design",
+      "courses": 2,
+      "image": "https://media.imperiathemes.com/images/education_app/i5rATBxRJNEv6881ceb6add94.png"
+    },
+    {
+      "rank": 2,
+      "title": "Illustration",
+      "courses": 5,
+      "image": "https://media.imperiathemes.com/images/education_app/X8qLDN6woxDe6881ce94f3dd0.png"
+    },
+    {
+      "rank": 3,
+      "title": "Development",
+      "courses": 5,
+      "image": "https://media.imperiathemes.com/images/education_app/Dyiyvcfzd3FF6881ceda7d58d.png"
+    }
+  ],
+  "courses_list": [
+    {
+      "id": 4,
+      "name": "AI / ML",
+      "image": "https://media.imperiathemes.com/images/education_app/6xopwHufMTCx6880c9c30214f.png",
+      "coursesNo": 5
+
+
+    },
+    {
+      "id": 5,
+      "name": "Business",
+      "image": "https://media.imperiathemes.com/images/education_app/cA3FpMhh3sYs6880c9c30304f.png",
+      "coursesNo": 4
+    },
+    {
+      "id": 5,
+      "name": "Digital Marketing",
+      "image": "https://media.imperiathemes.com/images/education_app/Vkgz0znnwJ7I6880c9c302b64.png",
+      "coursesNo": 3
+    },
+    {
+      "id": 6,
+      "name": "Public Speaking",
+      "image": "https://media.imperiathemes.com/images/education_app/3uscTwkYVUuF6880c9c302de5.png",
+      "coursesNo": 2
+    }
+  ],
+  "ongoing_courses_list": [
+    {
+      "id": 1,
+      "name": "Adobe Photoshop CC Advanced Training Course",
+      "image": "https://media.imperiathemes.com/images/education_app/QxDhdL0D30Ds6880caa0440ca.png",
+      "date": "25 Jul 2024",
+      "noOfLectures": 96,
+      "noOfCompletedLectures": 60
+
+    },
+    {
+      "id": 2,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "image": "https://media.imperiathemes.com/images/education_app/ZDS72likjYLq6880caa041b4f.png",
+      "date": "25 Jul 2024",
+      "noOfLectures": 96,
+      "noOfCompletedLectures": 60
+
+    }
+  ],
+  "achievement_list": [
+    {
+      "id": 1,
+      "name": "Excellence Unlocked!",
+      "image": "https://media.imperiathemes.com/images/education_app/1dMysqRsTQwj6880caf17a3ab.png",
+      "description": "You’ve earned a excellence badge for a UI UX Course for your remarkable performance during course & in assessment test after course completion as well."
+    },
+    {
+      "id": 2,
+      "name": "Milestone Reached: 1000 Points!",
+      "image": "https://media.imperiathemes.com/images/education_app/s6xrEM1CXoLu6880caf179ffe.png",
+      "description": "You’ve earned a 1000 points for a Digital Marketing course for your remarkable performance during course & in assessment test after course completion as well."
+    }
+  ],
+  "total_points": 2500,
+  "balance_points": 1500,
+  "used_points": 1000
+}

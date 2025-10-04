@@ -1,0 +1,82 @@
+{
+  "profile_url":"https://media.imperiathemes.com/images/education_app/2zKvwtgynodF686cd32cc3423.png",
+  "name": "Davon Johan",
+  "email": "davon23johan@gmail.com",
+  "designationList": [
+    {
+      "name": "Designing",
+      "image": "https://media.imperiathemes.com/images/education_app/JaQhQDbsHC0X686cd989d5066.png"
+    },
+    {
+      "name": "Business",
+      "image": "https://media.imperiathemes.com/images/education_app/0MFDo8LXslBy686cd9aac6590.png"
+    },
+    {
+      "name": "Public Speaking",
+      "image": "https://media.imperiathemes.com/images/education_app/6medgfuC30LU686cd9c60526b.png"
+    }
+  ],
+  "courseEnrolled": 12,
+  "averageScore": 50.0,
+  "days": 98,
+  "totalCoins": 2500,
+  "completedCourseList": [
+    {
+      "id": 1,
+      "name": "Adobe Photoshop CC - Advanced Training Course",
+      "image": "https://media.imperiathemes.com/images/education_app/JaQhQDbsHC0X686cd989d5066.png",
+      "noOfLectures": 96,
+      "noOfCompletedLectures": 96,
+      "date": "August 5, 2023"
+
+    },
+    {
+      "id": 2,
+      "name": "Illustrator Advanced Training",
+      "image": "https://media.imperiathemes.com/images/education_app/JaQhQDbsHC0X686cd989d5066.png",
+      "noOfLectures": 120,
+      "noOfCompletedLectures": 120,
+      "date": "August 5, 2023"
+
+    },
+    {
+      "id": 3,
+      "name": "Figma Essentials - Beginner to Pro",
+      "image": "https://media.imperiathemes.com/images/education_app/JaQhQDbsHC0X686cd989d5066.png",
+      "noOfLectures": 100,
+      "noOfCompletedLectures": 100,
+      "date": "September 12, 2023"
+
+    },
+    {
+      "id": 4,
+      "name": "Web Design Fundamentals - Masterclass",
+      "image": "https://media.imperiathemes.com/images/education_app/JaQhQDbsHC0X686cd989d5066.png",
+      "noOfLectures": 80,
+      "noOfCompletedLectures": 80,
+      "date": "October 21, 2023"
+
+    }
+  ],
+  "onGoingCoursesList": [
+    {
+      "id": 1,
+      "name": "Figma Essentials - Beginner to Pro",
+      "image": "https://media.imperiathemes.com/images/education_app/JaQhQDbsHC0X686cd989d5066.png",
+      "noOfLectures": 100,
+      "noOfCompletedLectures": 100,
+      "date": "September 12, 2023"
+
+    },
+    {
+      "id": 2,
+      "name": "Web Design Fundamentals - Masterclass",
+      "image": "https://media.imperiathemes.com/images/education_app/JaQhQDbsHC0X686cd989d5066.png",
+      "noOfLectures": 80,
+      "noOfCompletedLectures": 80,
+      "date": "October 21, 2023"
+
+    }
+  ]
+
+}

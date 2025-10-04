@@ -1,0 +1,16 @@
+import 'package:education_app/core/constants/app_assets.dart';
+import 'package:education_app/presentation/common_widgets/widgets/image.dart';
+import 'package:flutter/material.dart';
+import 'package:gap/gap.dart';
+import 'package:get/get.dart';
+import '../../../../core/constants/app_colors.dart';
+import '../../../../core/constants/app_strings.dart';
+import '../../../app/app_route.dart';
+import '../../../app/theme_controller.dart';
+import '../../../common_widgets/input_field/common_search_field.dart';
+import '../../../common_widgets/view_common_widget/common_app_bar.dart';
+import '../../../common_widgets/view_common_widget/common_empty_view.dart';
+import '../../../common_widgets/widgets/common_divider.dart';
+import '../search/widgets/common_course_category_view.dart';
+import 'controller/course_category_controller.dart';
+part 'course_category_list_view.dart';

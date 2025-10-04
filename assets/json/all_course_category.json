@@ -1,0 +1,32 @@
+{
+  "all_course_category": [
+    {
+      "id": 1,
+      "name": "ИИ",
+      "image": "https://media.imperiathemes.com/images/education_app/pWNFo4B9tNAA686d0cb45566e.png"
+    },
+    {
+      "id": 2,
+      "name": "Дълбоко обучение",
+      "image": "https://media.imperiathemes.com/images/education_app/Bv4YAKZ969IL686d0cdc31cca.png"
+    },
+    {
+      "id": 3,
+      "name": "Машинно обучение",
+      "image": "https://media.imperiathemes.com/images/education_app/updejBjhBSQR686d0d6d2ca4b.png"
+
+    },
+    {
+      "id": 4,
+      "name": "Невронни мрежи",
+      "image": "https://media.imperiathemes.com/images/education_app/Bv4YAKZ969IL686d0cdc31cca.png"
+
+    },
+    {
+      "id": 5,
+      "name": "LLMs",
+      "image": "https://media.imperiathemes.com/images/education_app/9S8nxZCq5ee3686d0d46008b4.png"
+
+    }
+  ]
+}

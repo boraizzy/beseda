@@ -1,0 +1,15 @@
+{
+  "on_Going_Courses": [
+    {
+      "id": 1,
+      "name": "Въведение в Изкуственият интелект",
+      "image": "https://media.imperiathemes.com/images/education_app/KAj6yGWoggX66868f4b6ae8f9.png",
+      "percentage": 100,
+      "progressValue": 1,
+      "noOfLectures": 1,
+      "noOfCompletedLectures": 1,
+      "progressColor": "#7E9EF6"
+
+    }
+  ]
+}

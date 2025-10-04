@@ -1,0 +1,65 @@
+{
+  "course_listing": [
+    {
+      "id": 1,
+      "name": "User Interface designing tutorial for beginners using Figma",
+      "image": "https://media.imperiathemes.com/images/education_app/34dlnHmfxMGQ686e0f737e096.png",
+      "courseFees": 99.0,
+      "rate": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Graphic designing masterclass - Learn great design",
+      "image": "https://media.imperiathemes.com/images/education_app/Apx8A2SVrZGI686e0fc3086c5.png",
+      "courseFees": 199.50,
+      "rate": 4.5
+
+    },
+    {
+      "id": 3,
+      "name": "Graphic designing masterclass - Learn great design",
+      "image": "https://media.imperiathemes.com/images/education_app/14OTOR9R9sDM686e0f737d898.png",
+      "courseFees": 99.0,
+      "rate": 4.5
+    },
+    {
+      "id": 4,
+      "name": "User Experience design essentials - Adobe XD",
+      "image": "https://media.imperiathemes.com/images/education_app/5oQaCuXIEaur686e0fc3076ef.png",
+      "courseFees": 199.50,
+      "rate": 4.5
+
+    },
+    {
+      "id": 5,
+      "name": "Graphic designing masterclass - Learn great design",
+      "image": "https://media.imperiathemes.com/images/education_app/0aYWgrSUE0D8686e0f737dd6f.png",
+      "courseFees": 99.0,
+      "rate": 4.5
+    },
+    {
+      "id": 6,
+      "name": "User Experience design essentials - Adobe XD",
+      "image": "https://media.imperiathemes.com/images/education_app/eZ8raeQ7VB0o686e0fc307dd7.png",
+      "courseFees": 199.50,
+      "rate": 4.5
+
+    },
+    {
+      "id": 7,
+      "name": "User Experience design essentials - Adobe XD",
+      "image": "https://media.imperiathemes.com/images/education_app/xldBuRBpG3zX686e0fc308273.png",
+      "courseFees": 199.50,
+      "rate": 4.5
+
+    },
+    {
+      "id": 8,
+      "name": "User Experience design essentials - Adobe XD",
+      "image": "https://media.imperiathemes.com/images/education_app/14OTOR9R9sDM686e0f737d898.png",
+      "courseFees": 199.50,
+      "rate": 4.5
+
+    }
+  ]
+}

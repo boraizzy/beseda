@@ -1,0 +1,47 @@
+{
+  "course_Category_List": [
+    {
+      "id": 1,
+      "name": "Дълбоко обучение",
+      "courseColor": "#4A90EB",
+      "courseBgColor": "#F0F7FE",
+      "image": "assets/images/deep_learning.png"
+
+    },
+    {
+      "id": 2,
+      "name": "Машинно обучениe",
+      "courseColor": "#F98D07",
+      "courseBgColor": "#FFFAEB",
+      "image": "assets/images/machine_learning.png"
+    },
+    {
+      "id": 3,
+      "name": "Невронни мрежи",
+      "courseColor": "#22C55E",
+      "courseBgColor": "#F0FDF5",
+      "image": "assets/images/neural_network.png"
+    },
+    {
+      "id": 4,
+      "name": "Изкуствен интелект",
+      "courseColor": "#EF4444",
+      "courseBgColor": "#FEF2F2",
+      "image": "assets/images/ai.png"
+    },
+    {
+      "id": 5,
+      "name": "Големи езикови модели",
+      "courseColor": "#22C55E",
+      "courseBgColor": "#F0FDF5",
+      "image": "assets/images/LLM.png"
+    },
+    {
+      "id": 6,
+      "name": "Програмиране с Python",
+      "courseColor": "#EF4444",
+      "courseBgColor": "#FEF2F2",
+      "image": "assets/images/python.png"
+    }
+  ]
+}

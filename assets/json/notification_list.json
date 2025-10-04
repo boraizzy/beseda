@@ -1,0 +1,54 @@
+{
+
+  "notificationList": [
+    {
+      "date": "Today",
+      "messages": [
+        {
+          "id": 1,
+          "title": "Web Development Session",
+          "msg": "Your next web development session is 30 min far keep your self ready!",
+          "marAsRead": false
+        },
+        {
+          "id": 2,
+          "title": "Web Development Session",
+          "msg": "Your next web development session is 30 min far keep your self ready!",
+          "marAsRead": true
+        }
+      ]
+    },
+    {
+      "date": "Yesterday",
+      "messages": [
+        {
+          "id": 1,
+          "title": "Web Development Session",
+          "msg": "Your next web development session is 30 min far keep your self ready!",
+          "marAsRead": true
+        },
+        {
+          "id": 2,
+          "title": "Web Development Session",
+          "msg": "Your next web development session is 30 min far keep your self ready!",
+          "marAsRead": true
+        },
+        {
+          "id": 3,
+          "title": "Web Development Session",
+          "msg": "Your next web development session is 30 min far keep your self ready!",
+          "marAsRead": true
+        },
+        {
+          "id": 4,
+          "title": "Web Development Session",
+          "msg": "Your next web development session is 30 min far keep your self ready!",
+          "marAsRead": true
+        }
+
+      ]
+    }
+
+  ]
+
+}

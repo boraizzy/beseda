@@ -1,0 +1,15 @@
+import 'package:education_app/core/constants/app_colors.dart';
+import 'package:education_app/presentation/common_widgets/widgets/image.dart';
+import 'package:education_app/presentation/screens/bottom_module/widgets/bottom_nav_bar.dart';
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import '../../../core/constants/app_assets.dart';
+import '../../../core/constants/app_strings.dart';
+import '../../app/theme_controller.dart';
+import '../../common_widgets/widgets/text.dart';
+import '../courses_module/my_courses/my_courses_imports.dart';
+import '../home_module/home/home_imports.dart';
+import '../setting_module/setting_screen/setting_view_imports.dart';
+import '../wishlist_module/wishlist_imports.dart';
+import 'controller/bottom_view_controller.dart';
+part 'bottom_view.dart';

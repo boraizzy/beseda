@@ -1,0 +1,9 @@
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import '../../../../core/constants/app_colors.dart';
+import '../../../app/app_route.dart';
+import '../../../app/theme_controller.dart';
+import '../../../common_widgets/view_common_widget/common_app_bar.dart';
+import '../../../common_widgets/view_common_widget/common_course_view.dart';
+import 'controller/course_listing_controller.dart';
+part 'course_listing_view.dart';

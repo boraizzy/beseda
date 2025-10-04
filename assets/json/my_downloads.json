@@ -1,0 +1,176 @@
+{
+  "video_lectures_list": [
+    {
+      "id": 1,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 2,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 3,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 4,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 5,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 6,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 7,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 8,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 9,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    },
+    {
+      "id": 10,
+      "image": "https://media.imperiathemes.com/images/education_app/XHEQqvZ7v1Jj687f527967858.png",
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 230
+    }
+  ],
+  "documents_list": [
+    {
+      "id": 1,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 23
+    } ,
+    {
+      "id": 2,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 23
+    },
+    {
+      "id": 3,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 23
+    } ,
+    {
+      "id": 4,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 23
+    },
+    {
+      "id": 5,
+      "name": "Web Development with HTML & CSS 5 essential frameworks",
+      "date": "13 Aug",
+      "storage": 23
+    } ,
+    {
+      "id": 6,
+      "name": "Mobile App Design in Figma 7 user experience tips",
+      "date": "13 Aug",
+      "storage": 23
+    },
+    {
+      "id": 7,
+      "name": "Responsive Web Design with Bootstrap 4 and JavaScript",
+      "date": "13 Aug",
+      "storage": 23
+    } ,
+    {
+      "id": 8,
+      "name": "Creating Infographics using Canva 8 design techniques",
+      "date": "13 Aug",
+      "storage": 23
+    },
+    {
+      "id": 9,
+      "name": "UX Research Basics 6 methods for effective design",
+      "date": "13 Aug",
+      "storage": 23
+    } ,
+    {
+      "id": 10,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 23
+    }
+  ],
+  "audio_list": [
+    {
+      "id": 1,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 127
+    } ,
+    {
+      "id": 2,
+      "name": "Mobile App UI in Sketch 5 user interactions",
+      "date": "17 Aug",
+      "storage": 89
+    },
+    {
+      "id": 3,
+      "name": "Website Redesign in Figma 8 design principles",
+      "date": "15 Aug",
+      "storage": 245
+    } ,
+    {
+      "id": 4,
+      "name": "Brand Identity Creation in Canva 12 typography styles",
+      "date": "20 Aug",
+      "storage": 150
+    },
+    {
+      "id": 5,
+      "name": "Brand Identity Creation in Canva 12 typography styles",
+      "date": "20 Aug",
+      "storage": 150
+    } ,
+    {
+      "id": 6,
+      "name": "Logo Design in Adobe Illustrator 10 graphic tools",
+      "date": "13 Aug",
+      "storage": 127
+    }
+
+  ]
+
+}

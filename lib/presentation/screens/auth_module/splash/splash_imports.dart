@@ -1,0 +1,12 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:gap/gap.dart';
+import 'package:get/get.dart';
+import '../../../../core/constants/app_assets.dart';
+import '../../../../core/constants/app_colors.dart';
+import '../../../../core/constants/app_strings.dart';
+import '../../../app/theme_controller.dart';
+import '../../../common_widgets/widgets/image.dart';
+import '../../../common_widgets/widgets/text.dart';
+import 'controller/splash_controller.dart';
+part 'splash_view.dart';

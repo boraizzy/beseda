@@ -1,0 +1,15 @@
+import 'package:education_app/core/constants/app_colors.dart';
+import 'package:education_app/presentation/screens/auth_module/onboarding/widgets/onboarding_class.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:gap/gap.dart';
+import 'package:get/get.dart';
+import '../../../../core/constants/app_assets.dart';
+import '../../../../core/constants/app_strings.dart';
+import '../../../../utils/extensions/shared_preference.dart';
+import '../../../app/app_route.dart';
+import '../../../app/theme_controller.dart';
+import '../../../common_widgets/widgets/button.dart';
+import '../../../common_widgets/widgets/text.dart';
+import 'controller/onboarding_controller.dart';
+part 'onboarding_view.dart';

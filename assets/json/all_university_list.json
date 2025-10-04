@@ -1,0 +1,11 @@
+{
+  "all_university_list": [
+    {
+      "id": 1,
+      "name": "Harvard University",
+      "image": "https://media.imperiathemes.com/images/education_app/f1fRt2bCyBls6874904d2dffc.png",
+      "noOfCourses": 33,
+      "description": "Lorem ipsum dolor sit amet consectetur. Sagittis phasellus faucibus amet imperdiet.Lorem ipsum dolor sit amet consectetur. Sagittis phasellus."
+    }
+  ]
+}

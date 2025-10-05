@@ -44,11 +44,11 @@ flutter pub get
 android/app/google-services.json
 - Стартирайте приложението на Android:
 
-flutter run
+**flutter run**
 - 👉 Ако имате повече от едно устройство, можете да изберете конкретно:
 
-flutter devices
-flutter run -d emulator-5554
+**flutter devices
+flutter run -d emulator-555**4
 - 📁 Структура на проекта
 
 lib/
